@@ -1,7 +1,7 @@
 '''
 Created on 3/8/2015
 
-@author: gonzalse
+@author: sergio gonzalez
 '''
 """
 test
